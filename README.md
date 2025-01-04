@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Suresh
-- 👀 I’m interested in siftware testing
+- 👀 I’m interested in software testing
 - 🌱 I’m currently learning API and Database testing
 - 📫 How to reach me on Email: sureshskmps@gmail.com
 - 😄 Pronouns: He/Him
